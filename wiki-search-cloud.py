@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import wikipedia
 import sys
 import warnings
-# supressing unnecessary warnings
+#supress unnecessary warnings
 warnings.filterwarnings("ignore")
 
 
